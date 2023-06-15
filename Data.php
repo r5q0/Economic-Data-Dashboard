@@ -37,8 +37,6 @@ if (preg_match($pattern, $response, $matches)) {
     echo "Forecast: $forecast </br>";
     echo "Previous: $previous </br>";
     echo '</div>';
-
-    echo "21321";
 }
 }
 }
