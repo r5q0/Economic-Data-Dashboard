@@ -9,7 +9,7 @@ function getData() {
 $urls = array('https://www.investing.com/economic-calendar/cpi-733', 'https://www.investing.com/economic-calendar/core-cpi-736', 'https://www.investing.com/economic-calendar/interest-rate-decision-168'  );
 
 foreach ($urls as $url) {
-
+dsa
 
 
 $options = array(
