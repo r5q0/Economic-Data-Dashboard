@@ -14,9 +14,10 @@
     getData(); ?>
 
     <center>
-        <<a href="index.php"><button>
+        <a href="index.php"><button>
                 <h1>Refresh</h1>
-            </button></a>/center>
+            </button> </a>
+    </center>
 
 
 
