@@ -36,7 +36,7 @@ if (preg_match($pattern, $response, $matches)) {
     echo "Actual: $actual </br>";
     echo "Forecast: $forecast </br>";
     echo "Previous: $previous </br>";
-    echo '</div>';
+    echo '</div>'; 
 
 }
 }
